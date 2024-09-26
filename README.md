@@ -12,10 +12,10 @@
 
 This repository is a summary of my research project under the supervision of Dr. Wilson Geisler. It provides optimal and sub-optimal model observers for searching a deterministic target in noise background.
 
-<!---
 ## Reference
-For more details of this project, welcome to read the corresponding peer-reviewed article:
---->
+For more details of this project, welcome to read the corresponding article:
+
+https://doi.org/10.48550/arXiv.2409.12124
 
 ## Contact
 
