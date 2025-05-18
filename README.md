@@ -1,4 +1,4 @@
-# Supraoptimal Visual Search with Heuristic Decision Rules
+# Optimal Visual Search with Highly Heuristic Decision Rules
 
 ![Detection & Search Timeline](detection-search-timeline.svg)
 
@@ -10,12 +10,23 @@
 
 ## Function / Purpose
 
-This repository is a summary of my research project under the supervision of Dr. Wilson Geisler. It provides optimal and sub-optimal model observers for searching a deterministic target in noise background.
+This repository is a summary of my research project with Bill Geisler. It provides optimal and sub-optimal model observers for searching a deterministic target in noise background.
 
 ## Reference
-For more details of this project, welcome to read the corresponding article:
+Welcome to check out the corresponding article:
+Journal of Vision April 2025, Vol.25, 5. doi:https://doi.org/10.1167/jov.25.4.5
 
-https://doi.org/10.48550/arXiv.2409.12124
+> Main conclusion: in covert search, an observer can perform optimally even if it does not precisely estimate its own capacity of detecting a target.
+
+## Correction
+
+Heatmaps in Figure A4 need to be transposed:
+
+![FigureA4-BD](FigureA4-BD.png)
+
+So as for Figure A7:
+
+![FigureA7](FigureA7.png)
 
 ## Contact
 
